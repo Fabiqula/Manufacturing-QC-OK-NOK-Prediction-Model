@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20218618-9803-4531-8c18-64f69befab97" name="Changes" comment="Reload updated source file">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/QC_incoming_goods_prediction-checkpoint.ipynb" afterDir="false" />
+    <list default="true" id="20218618-9803-4531-8c18-64f69befab97" name="Changes" comment="Dates handling (is_str_true)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/QC_incoming_goods_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/QC_incoming_goods_prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,13 +90,28 @@
       <option name="project" value="LOCAL" />
       <updated>1709202773433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dates handling (is_str_true)">
+      <created>1709279056687</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709279056687</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dates handling (is_str_true)">
+      <created>1709279226831</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709279226831</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Reload updated source file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reload updated source file" />
+    <MESSAGE value="Dates handling (is_str_true)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dates handling (is_str_true)" />
   </component>
 </project>
